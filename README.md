@@ -22,7 +22,7 @@
 # Tecnologias utilizadas
 
 ## Front end / Back end
-- Angular(javaScript, html, css typescript)
+- Angular (javaScript, html, css typescript)
 
 # Sobre o Curso
 https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/
