@@ -2,7 +2,7 @@
   Formação Angular 12 - O início criando 7 projetos
 
 # Sobre o projeto
-  Aprenda a criar aplicações web do zero com o Angular 12, através de 7 projetos práticos e divertidos
+  Criar 7 projetos práticos, incluindo uma calculadora, um conversor de moedas, CRUD, Dashboard, jogo da velha,...
 
 ## Layout DashBoard
 ![Mobile 1](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject1.png)
